@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         {/* Brand */}
         <div className="flex items-center space-x-2">
           <Coffee size={18} className="text-caramel-light" />
-          <span className="font-estetika text-lg tracking-wide text-caramel-light font-bold">cozyLedger</span>
+          <span className="font-estetika text-lg tracking-wide text-caramel-light font-bold">Jose</span>
         </div>
 
         {/* Static content credits */}
@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
 
         {/* Rights */}
         <div className="text-xs text-cream-dark/50 font-light">
-          &copy; {new Date().getFullYear()} cozyLedger. All rights reserved.
+          &copy; {new Date().getFullYear()} Jose. All rights reserved.
         </div>
       </div>
     </footer>

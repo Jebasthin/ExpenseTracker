@@ -83,7 +83,7 @@ const Register: React.FC = () => {
             <div className="p-2.5 bg-caramel/20 backdrop-blur-md rounded-xl border border-caramel/30 text-caramel-light">
               <CoffeeIcon size={24} />
             </div>
-            <span className="font-estetika text-2xl tracking-wide text-caramel-light font-bold">cozyLedger</span>
+            <span className="font-estetika text-2xl tracking-wide text-caramel-light font-bold">Jose</span>
           </div>
 
           <div className="my-auto py-12 z-10">
@@ -98,7 +98,7 @@ const Register: React.FC = () => {
           </div>
 
           <div className="z-10 text-xs text-cream-dark/60 font-light">
-            &copy; 2026 cozyLedger Inc. All rights reserved.
+            &copy; 2026 Jose Inc. All rights reserved.
           </div>
         </div>
 

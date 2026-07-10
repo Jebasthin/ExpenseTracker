@@ -23,7 +23,7 @@ const Navbar: React.FC = () => {
         <div className="p-1.5 bg-caramel/10 text-caramel rounded-lg border border-caramel/20">
           <Coffee size={20} />
         </div>
-        <span className="font-estetika text-xl tracking-wide text-brownie font-bold">cozyLedger</span>
+        <span className="font-estetika text-xl tracking-wide text-brownie font-bold">Jose</span>
       </Link>
 
       {/* Nav Links */}
